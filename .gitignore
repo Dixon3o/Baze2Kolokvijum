@@ -1,0 +1,9 @@
+.settings/
+.classpath
+.project
+build/
+bin/
+*.class
+.idea/
+*.iml
+**/META-INF/persistence.xml
